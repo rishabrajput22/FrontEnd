@@ -75,7 +75,6 @@ body {
     z-index: 11;
     border-radius: 5px;
   }
-  
   .sc::before {
     content: "";
     width: 2px;
